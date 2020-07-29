@@ -1,0 +1,62 @@
+body{
+	background-color: black;
+	margin: 0 0;bv 
+}
+h1{
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	background: steelblue;
+	padding: 10px 0;
+}
+
+.square{
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	padding-top: 5px;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15%;
+
+}
+
+#container{
+   margin: 0 auto;
+   max-width: 600px;
+}
+
+#result{
+	color: black;
+	font-size: 200%;
+}
+
+#strip{
+	background-color: white;
+	text-align: center;
+	height: 30px
+}
+
+.selected{
+	background-color: steelblue;
+	display: inline-block;
+	height: 100%;
+}
+button{
+	border: none;
+	background: none; 
+	padding: 10px 0;
+}
+
+#result{
+	display: inline-block;
+	width: 20%;
+	font:inherit;
+}
+button:hover {
+	background: steelblue;
+	color: white;
+	display: inline-block;
+	height: 100%;
+}
